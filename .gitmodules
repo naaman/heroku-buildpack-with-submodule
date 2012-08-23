@@ -1,3 +1,3 @@
 [submodule "buildpack-submodule-test"]
 	path = buildpack-submodule-test
-	url = https://github.com/naamannewbold/buildpack-submodule-test.git
+	url = git@github.com:naamannewbold/buildpack-submodule-test.git
