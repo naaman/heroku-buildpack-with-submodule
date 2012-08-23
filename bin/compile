@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+echo "compiling"
+./buildpack-submodule-test/dependency
+echo "done compiling"
